@@ -205,7 +205,7 @@ Checklist:
 2.3 ภาพหน้าจอแอป | App Screenshots
 แนบภาพหรือ URL (Attach images or image links):
 
-- ![Home Screen](./picture/home.png)
+- ![Home Screen](./picture/home.jpg)
 - ![Search Screen](./picture/search.jpg)
 - ![Product Detail Screen](./picture/product_detail.jpg)
 - ![Order Screen](./picture/order.jpg)
