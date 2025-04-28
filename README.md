@@ -7,7 +7,6 @@ Framework ที่ใช้ (Framework Used): React Native
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
-ตัวอย่าง (Example):
 
 Persona 1
 ชื่อ: ธนา สุขใจ
